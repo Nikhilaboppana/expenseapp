@@ -120,12 +120,12 @@
 import React from "react";
 
 import { Route, Routes } from "react-router-dom";
-import Expenses from "./components/expenses/Expenses";
+// import Expenses from "./components/expenses/Expenses";
 import { Navigate } from "react-router-dom";
 // import Expenses from "./components/expenses/Expenses";
 import Header from "./components/Header/Header";
 import User from "./pages/Lego/User/User";
-import Courses from "./pages/Courses/Courses";
+// import Courses from "./pages/Courses/Courses";
 import AddUser from "./pages/Lego/AddUser/AddUser";
 import ListUsers from "./pages/Lego/ListUsers/ListUsers";
 import Counter from "./components/Counter/Counter";
