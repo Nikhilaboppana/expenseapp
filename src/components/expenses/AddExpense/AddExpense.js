@@ -17,7 +17,7 @@ const AddExpense = () => {
     let newExpense = {
       title: enteredTitle,
       amount: Number(enteredAmount),
-      Date: New(enteredDate),
+      // Date: New(enteredDate),
     };
     console.log("Title : ", enteredTitle);
     console.log("Amount : ", enteredAmount);
