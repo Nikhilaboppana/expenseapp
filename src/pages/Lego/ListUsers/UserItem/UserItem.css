@@ -1,0 +1,8 @@
+.clickable {
+  transition: all 1s ease-in-out;
+}
+
+.clickable:hover {
+  cursor: pointer;
+  box-shadow: 2px 5px grey;
+}
